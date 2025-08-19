@@ -86,7 +86,7 @@
     left: -50px;
     border-radius: 50%;
     cursor: pointer;
-    background-image: url("uncheck.png");
+    background-image: url("images/uncheck.png");
     background-size: cover;
     background-position: center;
 
@@ -98,7 +98,7 @@
 }
 
 .task-container .chacked::before{
-    background-image: url("check2.png");
+    background-image: url("images/check2.png");
     background-size: cover;
     background-position: center;
    
